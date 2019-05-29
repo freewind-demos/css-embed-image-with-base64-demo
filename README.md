@@ -1,8 +1,14 @@
-Css Hello World Demo
-====================
+Css Embed Image with Base64 Demo
+================================
 
-Use css in html pages.
+```
+base64 cake.png | pbcopy
+```
 
-Open `index.html` in your browser.
+```
+background-image: url("data:image/gif;base64,<base64ofImage>")
+```
 
-![demo](./images/demo.jpg)
+```
+open index.html
+```
